@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/Cll-ti_6.js";import{a2 as a,aq as o,E as i,F as s}from"../chunks/DoUkkHxN.js";/* empty css                */function c(r,e,t){var n=a(r,e);n&&n.set&&(r[e]=t,o(()=>{r[e]=null}))}function p(r,e){i(e,!1);const t=!0;return c(e,"prerender",t),s({prerender:t})}export{p as component};
