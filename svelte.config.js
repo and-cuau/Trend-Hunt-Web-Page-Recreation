@@ -11,9 +11,6 @@ const config = {
 		adapter: adapter(),
 		paths: {
 			base: dev ? '' : '/Trend-Hunt-Web-Page-Recreation' // 🔁 Change 'my-repo' to your GitHub repo name
-		},
-		prerender: {
-			default: true
 		}
 	}
 };
