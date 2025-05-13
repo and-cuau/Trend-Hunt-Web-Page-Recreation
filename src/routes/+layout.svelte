@@ -2,6 +2,7 @@
 	import '../routes/global.scss';
 	import { onMount } from 'svelte';
 	import Footer from '$lib/components/footer.svelte';
+	export const prerender = true;
 
 	// export const prerender = true;
 

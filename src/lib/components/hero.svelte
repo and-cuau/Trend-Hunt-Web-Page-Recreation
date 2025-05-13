@@ -6,7 +6,7 @@
 <div id="hero">
 	<div class="image-container">
 		<div class="gradient"></div>
-		<img src="/images/mountain-background.jpg" alt="" />
+		<img src="./images/mountain-background.jpg" alt="" />
 	</div>
 	<div class="container">
 		<h1>Lead the Market with Trendhunt</h1>

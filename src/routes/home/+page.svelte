@@ -27,4 +27,4 @@
 
 <Join></Join>
 
-<!-- <Footer></Footer> -->
+<Footer></Footer>

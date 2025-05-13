@@ -27,7 +27,7 @@
 	</p>
 
 	<div class="container">
-		<img src="/images/nvidia-logo.jpg" />
+		<img src="./images/nvidia-logo.jpg" />
 		<div>
 			<p class="name">NVIDIA Corp.</p>
 			<p class="price">115.25</p>
